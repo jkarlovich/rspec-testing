@@ -1,3 +1,4 @@
+require 'spec_helper.rb'
 require_relative '../lib/tree.rb'
 
 describe Tree do
